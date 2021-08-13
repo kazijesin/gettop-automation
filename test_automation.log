@@ -1,0 +1,708 @@
+2021-07-23 13:51:16,301 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 13:51:26,934 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-23 13:51:31,484 - support.logger - INFO - 
+Started step: <when "Move mouse over flag icon">
+2021-07-23 13:51:38,266 - support.logger - INFO - 
+Started step: <then "Spanish language selection is visible">
+2021-07-23 13:55:23,107 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 13:57:01,232 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 13:58:48,730 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:06:04,035 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:09:30,190 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:13:00,925 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:14:13,764 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:14:37,968 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:43:29,809 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 14:44:54,226 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-23 14:46:43,234 - support.logger - INFO - 
+Started scenario: User can open and close Amazon Help page
+2021-07-23 14:57:01,022 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-23 14:58:07,513 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-23 15:02:51,403 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 15:02:56,117 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-23 15:02:56,118 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-23 15:03:02,619 - support.logger - INFO - 
+Started step: <when "Move mouse over flag icon">
+2021-07-23 15:03:06,621 - support.logger - INFO - ('xpath', "//span[@class='icp-nav-flag icp-nav-flag-us']", 'searching... ')
+2021-07-23 15:03:08,011 - support.logger - INFO - ('xpath', "//span[@class='icp-nav-flag icp-nav-flag-us']", 'found. ')
+2021-07-23 15:03:08,013 - support.logger - INFO - 
+Step failed: <when "Move mouse over flag icon">
+2021-07-23 15:05:35,756 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 15:05:40,427 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-23 15:05:40,428 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-23 15:05:47,558 - support.logger - INFO - 
+Started step: <when "Move mouse over flag icon">
+2021-07-23 15:05:51,563 - support.logger - INFO - ('xpath', "//span[@class='icp-nav-flag icp-nav-flag-us']", 'searching... ')
+2021-07-23 15:05:51,691 - support.logger - INFO - ('xpath', "//span[@class='icp-nav-flag icp-nav-flag-us']", 'found. ')
+2021-07-23 15:05:51,692 - support.logger - INFO - 
+Step failed: <when "Move mouse over flag icon">
+2021-07-23 15:07:48,110 - support.logger - INFO - 
+Started scenario: # Enter scenario name here
+2021-07-23 15:07:52,413 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-23 15:07:58,017 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-23 15:07:58,018 - support.logger - INFO - ('css selector', 'span.nav-a-content', 'searching... ')
+2021-07-23 15:07:58,390 - support.logger - INFO - ('css selector', 'span.nav-a-content', 'found. ')
+2021-07-23 15:07:58,456 - support.logger - INFO - 
+Step failed: <when "Hover over new arrivals">
+2021-07-23 15:53:31,777 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 15:55:06,500 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 16:12:01,675 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 16:13:17,259 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 16:13:45,314 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 17:18:16,743 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 17:23:33,500 - support.logger - INFO - 
+Started scenario: User can see Spanish
+2021-07-23 17:23:37,872 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-23 17:23:37,873 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-23 17:23:43,224 - support.logger - INFO - 
+Started step: <when "Move mouse over flag icon">
+2021-07-23 17:23:51,190 - support.logger - INFO - 
+Started step: <then "Spanish language selection is visible">
+2021-07-23 17:36:52,080 - support.logger - INFO - 
+Started scenario: User can select shorts color
+2021-07-23 17:36:56,619 - support.logger - INFO - 
+Started step: <given "Open Amazon product B07F2N8KWH page">
+2021-07-23 17:37:02,163 - support.logger - INFO - 
+Started step: <then "verify user can click through colors">
+2021-07-23 17:37:30,428 - support.logger - INFO - 
+Started scenario: User can select and search in a department
+2021-07-23 17:37:34,122 - support.logger - INFO - 
+Started step: <given "Open Amazon Page">
+2021-07-23 17:37:34,122 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-23 17:37:38,879 - support.logger - INFO - 
+Started step: <when "Select Garden & Outdoor department">
+2021-07-23 17:37:45,641 - support.logger - INFO - 
+Started step: <when "Search for lights">
+2021-07-23 17:37:54,411 - support.logger - INFO - 
+Started step: <then "Verify Garden & Outdoor department is selected">
+2021-07-25 00:11:15,894 - support.logger - INFO - 
+Started scenario: User can select and search in a department
+2021-07-25 00:11:24,461 - support.logger - INFO - 
+Started step: <given "Open Amazon Page">
+2021-07-25 00:11:24,461 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 00:11:28,355 - support.logger - INFO - 
+Started step: <when "Select Garden & Outdoor department">
+2021-07-25 00:11:29,508 - support.logger - INFO - 
+Started step: <when "Search for lights">
+2021-07-25 00:11:35,593 - support.logger - INFO - 
+Started step: <then "Verify Garden & Outdoor department is selected">
+2021-07-25 00:13:02,433 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 00:13:06,844 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-25 00:13:12,466 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-25 00:13:23,945 - support.logger - INFO - 
+Started step: <then "Verify user see the deals">
+2021-07-25 00:13:34,514 - support.logger - INFO - 
+Step failed: <then "Verify user see the deals">
+2021-07-25 00:22:57,858 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 00:23:02,274 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-25 00:23:07,764 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-25 00:23:19,247 - support.logger - INFO - 
+Started step: <then "Verify user see the deals">
+2021-07-25 00:23:29,787 - support.logger - INFO - 
+Step failed: <then "Verify user see the deals">
+2021-07-25 00:29:58,657 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 00:30:02,853 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 00:30:04,812 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 00:30:09,612 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 00:30:14,944 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 00:30:15,682 - support.logger - INFO - 
+Started step: <then "First result contains Watches">
+2021-07-25 00:32:20,184 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 00:32:24,467 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 00:32:27,385 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 00:32:31,912 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 00:32:36,333 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 00:32:46,423 - support.logger - INFO - 
+Step failed: <then "Product results for Watches are shown">
+2021-07-25 00:38:36,567 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 00:38:40,976 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 00:38:43,446 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 00:38:47,915 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 00:38:52,173 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 00:38:53,218 - support.logger - INFO - 
+Started step: <then "First result contains Watches">
+2021-07-25 11:43:03,742 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 11:43:59,262 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 11:45:58,144 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 11:46:03,654 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 11:46:04,446 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 11:46:08,570 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 11:46:11,436 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 11:46:21,458 - support.logger - INFO - 
+Step failed: <then "Product results for Watches are shown">
+2021-07-25 11:46:57,620 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 11:47:01,808 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 11:47:03,917 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 11:47:08,575 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 11:47:13,262 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 11:47:14,079 - support.logger - INFO - 
+Started step: <then "First result contains Watches">
+2021-07-25 11:47:49,456 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-07-25 11:47:53,382 - support.logger - INFO - 
+Started step: <given "Open Google page">
+2021-07-25 11:47:54,179 - support.logger - INFO - 
+Started step: <when "Input Watches into search field">
+2021-07-25 11:47:58,315 - support.logger - INFO - 
+Started step: <when "Click on search icon">
+2021-07-25 11:48:01,108 - support.logger - INFO - 
+Started step: <then "Product results for Watches are shown">
+2021-07-25 11:48:11,158 - support.logger - INFO - 
+Step failed: <then "Product results for Watches are shown">
+2021-07-25 11:49:00,638 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 11:49:03,239 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 11:49:03,239 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 11:49:04,043 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 11:49:06,372 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 11:49:06,559 - support.logger - INFO - 
+Step failed: <when "Click on first product">
+2021-07-25 11:49:52,294 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 11:49:56,311 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 11:49:56,312 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 11:50:03,262 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 11:50:15,405 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 11:50:21,771 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-07-25 11:50:24,109 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-07-25 11:54:35,039 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 11:54:39,417 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 11:54:39,417 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 11:54:46,219 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 11:54:58,225 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 11:55:09,604 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-07-25 11:55:22,150 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-07-25 11:55:55,671 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 11:55:59,807 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 11:55:59,807 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 11:56:00,858 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 11:58:48,452 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 11:58:48,460 - support.logger - INFO - 
+Step failed: <when "Click on first product">
+2021-07-25 11:59:08,871 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 11:59:17,904 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 11:59:17,905 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 11:59:18,852 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 11:59:20,951 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 11:59:23,372 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-07-25 11:59:35,598 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-07-25 16:11:29,228 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 16:15:12,003 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 16:15:16,899 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-25 16:15:18,868 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-25 16:15:29,483 - support.logger - INFO - 
+Started step: <then "Verify user see the deals">
+2021-07-25 16:15:40,006 - support.logger - INFO - 
+Step failed: <then "Verify user see the deals">
+2021-07-25 16:16:24,384 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 16:16:29,036 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-25 16:16:35,593 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-25 16:16:46,816 - support.logger - INFO - 
+Started step: <then "Verify user see the deals">
+2021-07-25 16:16:57,378 - support.logger - INFO - 
+Step failed: <then "Verify user see the deals">
+2021-07-25 16:22:20,822 - support.logger - INFO - 
+Started scenario: User see the deals
+2021-07-25 16:22:25,426 - support.logger - INFO - 
+Started step: <given "Open Amazon product page">
+2021-07-25 16:22:31,650 - support.logger - INFO - 
+Started step: <when "Hover over new arrivals">
+2021-07-25 16:22:42,937 - support.logger - INFO - 
+Started step: <then "Verify user see the deals">
+2021-07-25 16:22:53,500 - support.logger - INFO - 
+Step failed: <then "Verify user see the deals">
+2021-07-25 16:28:44,442 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-25 16:28:48,592 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-25 16:28:48,592 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-25 16:28:55,604 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-25 16:29:06,999 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-25 16:29:11,696 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-07-25 16:29:23,635 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-07-31 17:38:42,226 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-31 17:38:47,316 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-07-31 17:38:47,316 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-07-31 17:38:52,662 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-07-31 17:39:07,340 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-07-31 17:39:10,499 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-07-31 17:39:21,922 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-07-31 17:40:11,233 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-07-31 17:40:39,078 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-08-02 14:16:36,004 - support.logger - INFO - 
+Started scenario: User can add product to Amazon cart
+2021-08-02 14:16:45,820 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-08-02 14:16:45,821 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-08-02 14:16:50,236 - support.logger - INFO - 
+Started step: <when "Search for coffee mug">
+2021-08-02 14:16:59,350 - support.logger - INFO - 
+Started step: <when "Click on first product">
+2021-08-02 14:17:04,443 - support.logger - INFO - 
+Started step: <when "Click add to cart button">
+2021-08-02 14:17:18,062 - support.logger - INFO - 
+Started step: <then "Verify cart has 1 item">
+2021-08-03 22:46:32,567 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-03 22:46:41,215 - support.logger - INFO - 
+Started step: <given "Open Amazon page">
+2021-08-03 22:46:41,215 - support.logger - INFO - Opening the url https://www.amazon.com/gp/product/B074TBCSC8
+2021-08-03 22:50:13,242 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-03 22:50:22,169 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-04 22:00:27,342 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:00:34,160 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-04 22:05:23,558 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:05:37,217 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-04 22:26:13,772 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:26:20,333 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-04 22:26:24,281 - support.logger - INFO - 
+Started step: <when "Click on gettop search icon">
+2021-08-04 22:29:41,638 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:29:57,250 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 22:30:00,948 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 22:57:43,411 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:57:52,300 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 22:57:55,222 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 22:59:42,541 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 22:59:51,102 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 22:59:54,479 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 23:02:17,706 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 23:02:28,797 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 23:02:32,599 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 23:13:15,418 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 23:13:31,019 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 23:13:34,192 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 23:15:44,752 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 23:15:52,846 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 23:15:55,812 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-04 23:18:00,239 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-04 23:18:15,375 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-04 23:18:18,250 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-05 00:46:17,851 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-05 00:46:27,858 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-05 00:46:31,196 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-06 11:01:44,978 - support.logger - INFO - 
+Started scenario: User can search for a product
+2021-08-06 11:01:54,767 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-06 11:01:58,227 - support.logger - INFO - 
+Started step: <when "Click on Gettop search icon">
+2021-08-06 15:52:44,394 - support.logger - INFO - 
+Started scenario: User can browse categories
+2021-08-06 15:52:53,841 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-06 15:52:57,229 - support.logger - INFO - 
+Started step: <when ""Browse Our Categories" text is shown">
+2021-08-06 15:52:57,459 - support.logger - INFO - 
+Started step: <when "Expected {expected_links} categories are shown">
+2021-08-06 15:52:57,460 - support.logger - INFO - 
+Step failed: <when "Expected {expected_links} categories are shown">
+2021-08-06 15:54:54,101 - support.logger - INFO - 
+Started scenario: User can browse categories
+2021-08-06 15:55:02,758 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-06 15:55:06,505 - support.logger - INFO - 
+Started step: <when ""Browse Our Categories" text is shown">
+2021-08-06 15:55:07,124 - support.logger - INFO - 
+Started step: <when "Expected {expected_links} categories are shown">
+2021-08-06 15:55:07,404 - support.logger - INFO - 
+Step failed: <when "Expected {expected_links} categories are shown">
+2021-08-07 13:14:43,659 - support.logger - INFO - 
+Started scenario: User can see no products added to the wishlist
+2021-08-07 13:14:50,073 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-07 13:14:52,901 - support.logger - INFO - 
+Started step: <when "Click on cart icon">
+2021-08-07 13:14:54,146 - support.logger - INFO - 
+Started step: <then "Verify {Your cart is currently empty} is shown">
+2021-08-07 13:15:05,219 - support.logger - INFO - 
+Step failed: <then "Verify {Your cart is currently empty} is shown">
+2021-08-07 13:19:21,582 - support.logger - INFO - 
+Started scenario: User can see no products added to the wishlist
+2021-08-07 13:19:33,381 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-07 13:19:37,294 - support.logger - INFO - 
+Started step: <when "Click on cart icon">
+2021-08-07 13:19:39,498 - support.logger - INFO - 
+Started step: <then "Verify Your cart is currently empty is shown">
+2021-08-07 13:19:50,835 - support.logger - INFO - 
+Step failed: <then "Verify Your cart is currently empty is shown">
+2021-08-07 13:21:41,254 - support.logger - INFO - 
+Started scenario: User can see no products added to the wishlist
+2021-08-07 13:21:50,067 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-07 13:21:53,013 - support.logger - INFO - 
+Started step: <when "Click on cart icon">
+2021-08-07 13:21:59,366 - support.logger - INFO - 
+Started step: <then "Verify Your cart is currently empty is shown">
+2021-08-07 13:22:10,821 - support.logger - INFO - 
+Step failed: <then "Verify Your cart is currently empty is shown">
+2021-08-07 13:26:17,359 - support.logger - INFO - 
+Started scenario: User can see no products added to the wishlist
+2021-08-07 13:26:25,728 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-07 13:26:29,486 - support.logger - INFO - 
+Started step: <when "Click on cart icon">
+2021-08-07 13:26:32,071 - support.logger - INFO - 
+Started step: <then "Verify Your cart is currently empty is shown">
+2021-08-07 13:26:32,076 - support.logger - INFO - 
+Step failed: <then "Verify Your cart is currently empty is shown">
+2021-08-07 14:01:21,791 - support.logger - INFO - 
+Started scenario: User can see no products added to the wishlist
+2021-08-07 14:01:28,797 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-07 14:01:32,169 - support.logger - INFO - 
+Started step: <when "Click on cart icon">
+2021-08-07 14:01:33,496 - support.logger - INFO - 
+Started step: <then "Verify Your cart is currently empty is shown">
+2021-08-07 14:01:33,498 - support.logger - INFO - 
+Step failed: <then "Verify Your cart is currently empty is shown">
+2021-08-08 12:29:50,784 - support.logger - INFO - 
+Started scenario: Items of correct category are shown
+2021-08-08 12:29:58,836 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-08 12:30:01,688 - support.logger - INFO - 
+Started step: <when "Click on the categories">
+2021-08-08 12:30:03,858 - support.logger - INFO - 
+Step failed: <when "Click on the categories">
+2021-08-08 12:41:16,474 - support.logger - INFO - 
+Started scenario: Items of correct category are shown
+2021-08-08 12:41:25,381 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-08 12:41:29,038 - support.logger - INFO - 
+Started step: <when "Click on the categories">
+2021-08-08 12:41:31,555 - support.logger - INFO - 
+Step failed: <when "Click on the categories">
+2021-08-08 12:44:59,771 - support.logger - INFO - 
+Started scenario: Items of correct category are shown
+2021-08-08 12:45:19,287 - support.logger - INFO - 
+Started step: <given "Open gettop page">
+2021-08-08 12:45:22,460 - support.logger - INFO - 
+Started step: <when "Click on the categories">
+2021-08-08 12:45:24,775 - support.logger - INFO - 
+Step failed: <when "Click on the categories">
+2021-08-08 13:34:35,901 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 13:34:45,290 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 13:34:48,459 - support.logger - INFO - 
+Started step: <when "Click right arrow of the top banners">
+2021-08-08 13:34:48,463 - support.logger - INFO - 
+Step failed: <when "Click right arrow of the top banners">
+2021-08-08 13:37:42,844 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 13:37:52,311 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 13:37:55,636 - support.logger - INFO - 
+Started step: <when "Click right arrow of the top banners">
+2021-08-08 13:37:56,480 - support.logger - INFO - 
+Started step: <when "Next banner appears">
+2021-08-08 13:37:56,485 - support.logger - INFO - 
+Step failed: <when "Next banner appears">
+2021-08-08 13:40:20,477 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 13:40:29,466 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 13:40:32,862 - support.logger - INFO - 
+Started step: <when "Click right arrow of the top banners">
+2021-08-08 13:40:33,430 - support.logger - INFO - 
+Started step: <when "Next banner appears">
+2021-08-08 13:40:44,901 - support.logger - INFO - 
+Step failed: <when "Next banner appears">
+2021-08-08 14:04:49,993 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 14:04:58,696 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 14:05:01,681 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-08 14:05:02,198 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-08 14:05:13,516 - support.logger - INFO - 
+Step failed: <when "User can click bottom dots to see top banners">
+2021-08-08 14:06:51,361 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 14:06:58,300 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 14:07:02,078 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-08 14:07:02,825 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-08 14:07:14,392 - support.logger - INFO - 
+Step failed: <when "User can click bottom dots to see top banners">
+2021-08-08 14:19:06,695 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-08 14:19:15,402 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-08 14:19:18,473 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-08 14:19:19,232 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 12:15:15,372 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 12:15:25,688 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 12:15:29,148 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 12:15:29,868 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 12:15:30,582 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 12:15:42,239 - support.logger - INFO - 
+Step failed: <when "click on product banner">
+2021-08-09 12:20:02,399 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 12:20:12,155 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 12:20:14,850 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 12:20:15,480 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 12:20:16,064 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 12:20:19,148 - support.logger - INFO - 
+Step failed: <when "click on product banner">
+2021-08-09 12:35:56,674 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 12:36:03,784 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 12:36:07,473 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 12:36:08,088 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 12:36:08,522 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 12:36:12,121 - support.logger - INFO - 
+Step failed: <when "click on product banner">
+2021-08-09 13:27:06,018 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 13:27:12,614 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 13:27:15,543 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 13:27:16,010 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 13:27:16,564 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 13:27:27,967 - support.logger - INFO - 
+Step failed: <when "click on product banner">
+2021-08-09 13:29:27,120 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 13:29:39,516 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 13:29:45,554 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 13:29:46,447 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 13:32:18,425 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 13:32:27,250 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 13:32:30,625 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 13:32:31,240 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 13:39:00,380 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 13:39:09,144 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 13:39:13,242 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 13:39:14,061 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 13:39:14,916 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 13:39:26,282 - support.logger - INFO - 
+Step failed: <when "click on product banner">
+2021-08-09 13:43:02,740 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 13:43:14,408 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 13:43:17,770 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 13:43:18,999 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 13:43:19,792 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 13:43:22,175 - support.logger - INFO - 
+Started step: <then "Verify correct category page opens">
+2021-08-09 13:43:22,180 - support.logger - INFO - 
+Step failed: <then "Verify correct category page opens">
+2021-08-09 14:09:43,440 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-09 14:10:21,976 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 14:10:25,803 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-09 14:10:26,419 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-09 14:10:27,120 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-09 14:10:28,772 - support.logger - INFO - 
+Started step: <then "Verify correct category page opens">
+2021-08-09 14:46:08,633 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-09 14:46:17,070 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 14:46:20,635 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-09 14:46:32,334 - support.logger - INFO - 
+Step failed: <when "Click on a product">
+2021-08-09 14:49:21,484 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-09 14:49:30,780 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 14:49:34,793 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-09 14:49:36,135 - support.logger - INFO - 
+Step failed: <when "Click on a product">
+2021-08-09 14:52:17,265 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-09 14:52:29,889 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 14:52:33,855 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-09 14:52:45,358 - support.logger - INFO - 
+Step failed: <when "Click on a product">
+2021-08-09 14:56:17,532 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-09 14:56:35,031 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-09 14:56:40,842 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-09 14:56:52,358 - support.logger - INFO - 
+Step failed: <when "Click on a product">
