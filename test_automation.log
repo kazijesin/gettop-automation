@@ -718,3 +718,83 @@ Started step: <when "User can click bottom dots to see top banners">
 Started step: <when "click on product banner">
 2021-08-15 13:29:17,686 - support.logger - INFO - 
 Started step: <then "Verify correct category page opens">
+2021-08-15 13:35:26,427 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 13:35:33,541 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 13:35:37,091 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 13:35:48,404 - support.logger - INFO - 
+Step failed: <when "Click on a product">
+2021-08-15 13:46:04,246 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 13:46:10,586 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 13:46:15,386 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 13:46:26,995 - support.logger - INFO - 
+Step failed: <when "Click on a product">
+2021-08-15 14:06:24,371 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:06:33,072 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:06:36,394 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:12:26,967 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:12:34,557 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:12:38,390 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:12:41,153 - support.logger - INFO - 
+Started step: <when "You may also like block is shown">
+2021-08-15 14:20:48,029 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:20:56,717 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:21:00,965 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:21:03,527 - support.logger - INFO - 
+Started step: <when "You may also like block is shown">
+2021-08-15 14:21:03,703 - support.logger - INFO - 
+Started step: <when "Click link under the block">
+2021-08-15 14:32:44,523 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:32:52,226 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:32:55,307 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:32:57,614 - support.logger - INFO - 
+Started step: <when "You may also like block is shown">
+2021-08-15 14:32:57,801 - support.logger - INFO - 
+Started step: <when "Click link under the block">
+2021-08-15 14:33:00,001 - support.logger - INFO - 
+Started step: <then "Verify it opens the correct page">
+2021-08-15 14:33:00,003 - support.logger - INFO - 
+Step failed: <then "Verify it opens the correct page">
+2021-08-15 14:34:16,453 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:34:23,601 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:34:27,057 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:34:29,432 - support.logger - INFO - 
+Started step: <when "You may also like block is shown">
+2021-08-15 14:34:29,585 - support.logger - INFO - 
+Started step: <when "Click link under the block">
+2021-08-15 14:34:31,052 - support.logger - INFO - 
+Started step: <then "Verify it opens the correct page">
+2021-08-15 14:34:41,996 - support.logger - INFO - 
+Step failed: <then "Verify it opens the correct page">
+2021-08-15 14:36:10,171 - support.logger - INFO - 
+Started scenario: User can see you may also like block & the products
+2021-08-15 14:36:16,119 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 14:36:20,127 - support.logger - INFO - 
+Started step: <when "Click on a product">
+2021-08-15 14:36:22,256 - support.logger - INFO - 
+Started step: <when "You may also like block is shown">
+2021-08-15 14:36:22,424 - support.logger - INFO - 
+Started step: <when "Click link under the block">
+2021-08-15 14:36:23,891 - support.logger - INFO - 
+Started step: <then "Verify it opens the correct page">

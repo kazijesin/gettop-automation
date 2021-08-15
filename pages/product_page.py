@@ -12,11 +12,22 @@ class ProductPage(Page):
     SIZE_OPTION_0 = (By.ID, 'size_name_0' )
     PRICE_BUY_BOX = (By.ID, 'priceInsideBuyBox_feature-div')
     SELECTED_CATEGORY = (By.CSS_SELECTOR, 'a.nav-top-link')
-    PRODUCT = (By.CSS_SELECTOR, 'img.attachment-woocommerce_thumbnail size-woocommerce_thumbnail')
-
+    PRODUCT = (By.CSS_SELECTOR, 'img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail')
+    YOU_MAY_LIKE = (By.CSS_SELECTOR, 'h3.widget-title.shop-sidebar')
+    LIKE_BLOCK = (By.CSS_SELECTOR, 'span.product-title')
+    BLOCK_URL = (By.CSS_SELECTOR, 'h1.product-title.product_title.entry-title')
 
     def click_product(self):
         self.click(*self.PRODUCT)
+
+    def block_is_shown(self):
+        self.find_element(*self.YOU_MAY_LIKE)
+
+    def click_under_block(self):
+        self.click(*self.LIKE_BLOCK)
+
+    def verify_correct_page_opens(self):
+        self.find_element(*self.BLOCK_URL)
 
 
     def click_cart(self):
@@ -33,7 +44,6 @@ class ProductPage(Page):
         for i in range(len(caterogies)):
          caterogies[i].click()
         self.verify_text(expected_caterogies[i], *self.SELECTED_CATEGORY)
-
 
 
     def click_add_to_cart(self):

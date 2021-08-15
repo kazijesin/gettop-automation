@@ -8,6 +8,6 @@ Feature: You may also like block and it's function
   Scenario: User can see you may also like block & the products
     Given Open Gettop page
     When Click on a product
-#    When You may also like block is shown
-#    When Click link under the block
-#    Then Verify it opens the correct page
+    When You may also like block is shown
+    When Click link under the block
+    Then Verify it opens the correct page
