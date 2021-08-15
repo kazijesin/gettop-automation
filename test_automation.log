@@ -706,3 +706,15 @@ Started step: <given "Open Gettop page">
 Started step: <when "Click on a product">
 2021-08-09 14:56:52,358 - support.logger - INFO - 
 Step failed: <when "Click on a product">
+2021-08-15 13:29:03,811 - support.logger - INFO - 
+Started scenario: User can browse through top banners
+2021-08-15 13:29:11,929 - support.logger - INFO - 
+Started step: <given "Open Gettop page">
+2021-08-15 13:29:15,298 - support.logger - INFO - 
+Started step: <when "Click right & left arrow of the top banners">
+2021-08-15 13:29:15,782 - support.logger - INFO - 
+Started step: <when "User can click bottom dots to see top banners">
+2021-08-15 13:29:16,424 - support.logger - INFO - 
+Started step: <when "click on product banner">
+2021-08-15 13:29:17,686 - support.logger - INFO - 
+Started step: <then "Verify correct category page opens">
